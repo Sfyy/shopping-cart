@@ -2,7 +2,7 @@
   "name": "shopping-cart",
   "version": "0.1.0",
   "private": true,
-   "homepage": "https://Sfyy.github.io/shopping-cart",
+  "homepage": "https://Sfyy.github.io/shopping-cart",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-brands-svg-icons": "^6.4.0",
@@ -10,7 +10,6 @@
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/user-event": "^13.5.0",
-    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^5.2.0",
@@ -46,7 +45,6 @@
   "devDependencies": {
     "@testing-library/react": "^14.0.0",
     "jest": "^27.5.1",
-    "jest-dom": "^4.0.0",
-    "gh-pages": "^3.2.3"
+    "jest-dom": "^4.0.0"
   }
 }
