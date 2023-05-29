@@ -1,0 +1,35 @@
+.shop {
+    padding: 1rem;
+    background-color: #EFECE9;
+}
+
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3rem;
+    padding: 3rem;
+    margin: 10px;
+}
+
+/* Small devices */
+@media screen and (min-width: 200px) and (max-width: 979px) {
+
+    .shop {
+        padding: 10px;
+    }
+
+    .product-grid {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 1rem;
+        padding: 1rem;
+    }
+}
+
+/* Medium devices */
+@media screen and (min-width: 980px) and (max-width: 1260px) {
+    .product-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2.5rem;
+        padding: 2.5rem;
+    }
+}
