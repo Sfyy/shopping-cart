@@ -8,5 +8,5 @@ Simple Shopping Cart made with React.
 ![image](https://github.com/Sfyy/shopping-cart/assets/89462981/8436cb46-f4c6-497e-850e-20b55f6ebf0c)
 ![image](https://github.com/Sfyy/shopping-cart/assets/89462981/18df56bf-6f8f-4f1c-8f6d-6c3754bcb8b9)
 
-#Slide-in Cart
+# Slide-in Cart
 ![image](https://github.com/Sfyy/shopping-cart/assets/89462981/ba419674-838e-4a0f-9d9e-c02d40fa17da)
